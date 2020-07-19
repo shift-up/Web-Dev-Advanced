@@ -56,7 +56,7 @@
 ### Mini-Projects
 
 * Included in OC:
-   * Mini-Project 1.2a: [Practice Executing Simple SQL Queries](https://openclassrooms.com/en/courses/2071486-retrieve-data-using-sql/6802696-get-some-practice-executing-simple-sql-queries)
-   * Mini-Project 1.2b: [Advanced SQL Queries](https://openclassrooms.com/en/courses/2071486-retrieve-data-using-sql/6802756-get-some-practice-executing-advanced-sql-queries)
+   * Mini-Project 2.3a: [Practice Executing Simple SQL Queries](https://openclassrooms.com/en/courses/2071486-retrieve-data-using-sql/6802696-get-some-practice-executing-simple-sql-queries)
+   * Mini-Project 2.3b: [Advanced SQL Queries](https://openclassrooms.com/en/courses/2071486-retrieve-data-using-sql/6802756-get-some-practice-executing-advanced-sql-queries)
 * Not included in OC:
    * [Odin Project - SQL Zoo](https://www.theodinproject.com/courses/databases/lessons/sql)

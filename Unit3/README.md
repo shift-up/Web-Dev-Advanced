@@ -31,7 +31,7 @@
 
 ### Mini-Projects
 
-* Mini-Project 3.2a: [Create an Accessible Style Guide](https://openclassrooms.com/en/courses/6663451-make-your-web-content-accessible/6912752-create-accessible-visual-designs#/id/r-6912739)
+* Mini-Project 3.2: [Create an Accessible Style Guide](https://openclassrooms.com/en/courses/6663451-make-your-web-content-accessible/6912752-create-accessible-visual-designs#/id/r-6912739)
    * Let’s make an accessible one-page style guide. To get started, you can use [this example and template](https://www.figma.com/file/1rzHME5zpsCvf2sdIe7NCA/Quick-Style-Guide-Template?node-id=0%3A1). You can save a copy and fill out the template yourself, or use a different tool, like Illustrator, to create something similar.
 
 ### Self-Graded Assignments
