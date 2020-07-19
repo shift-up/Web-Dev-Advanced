@@ -1,4 +1,4 @@
-# Unit 3: Building A Frontend
+# Unit 3: Building a frontend
 
 
 ## Module 3.1 - Working with ReactJS

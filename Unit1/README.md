@@ -15,13 +15,13 @@
 ### Self-Graded Assignments
 
 * Included in OC course:
-   * 1 - auto graded quiz
-      * Add CSS rules to your project
-      * Integrate a Bootstrap grid for a great layout
-      * Recreate a page structure in HTML
-      * Pick apart text and graphic effects
-      * Conceptualize visual components as HTML elements
-      * Understand what a mockup is and who makes them
+   * 1 auto graded quiz
+   * Add CSS rules to your project
+   * Integrate a Bootstrap grid for a great layout
+   * Recreate a page structure in HTML
+   * Pick apart text and graphic effects
+   * Conceptualize visual components as HTML elements
+   * Understand what a mockup is and who makes them
 
 ## Module 1.2
 

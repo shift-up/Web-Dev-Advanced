@@ -1,4 +1,4 @@
-# Unit 2: Relational Databases
+# Unit 2: Full-stack web apps
 
 ## Module 2.1
 
