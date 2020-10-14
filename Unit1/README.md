@@ -60,8 +60,6 @@
 
 * Included in OC course:
    * Mini-Project 1.3: [Get some practice breakdowning your favorite website](https://openclassrooms.com/en/courses/3523321-optimize-your-website-with-devtools/6785681-get-some-practice-breakdowning-your-favorite-website)
-* NOT Included in OC:
-   * TODO - Research and include a JavaScript dev tools tutorial
 
 ### Self-Graded Assignments
 
@@ -82,11 +80,6 @@
 
 * 1.4 [Full-Stack 101: Node, Express and Mongo](https://openclassrooms.com/en/courses/5614116-go-full-stack-with-node-js-express-and-mongodb)
    * OC course time: 10 hrs
-
-### Mini-Projects
-
-* Included in OC course:
-   * TODO
 
 ### Self-Graded Assignments
 
@@ -129,9 +122,7 @@
 
 * Included in OC course:
    * Mini-project 1.6: [Deploy an app to heroku](https://openclassrooms.com/en/courses/4614791-deploy-apps-on-heroku)
-* NOT Included in OC:
-   * TODO
-
+   
 ### Self-Graded Assignments
 
 * Included in OC course: 
