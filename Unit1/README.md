@@ -73,12 +73,30 @@
       * Add and test CSS style rules
       * Examine and modify HTML elements
 
-
 ## Module 1.4
 
 ### Course Material
 
-* 1.4 [Full-Stack 101: Node, Express and Mongo](https://openclassrooms.com/en/courses/5614116-go-full-stack-with-node-js-express-and-mongodb)
+* 1.4 [Build Your Web Projects With REST APIs](https://openclassrooms.com/en/courses/6121936-build-your-web-projects-with-rest-apis)
+   * OC course time: 4 hrs
+
+### Mini-Projects
+
+* Included in OC course:
+   * Mini-project 1.4: [Choose frameworks to build your API](https://openclassrooms.com/en/courses/6121936-build-your-web-projects-with-rest-apis/6268271-choose-frameworks-to-build-your-api)
+
+### Self-Graded Assignments
+
+* Included in OC course:
+   * 2 auto graded quizzes
+   * Identify the value of REST APIs for your code projects
+   * Make requests and send responses with a REST API
+
+## Module 1.5
+
+### Course Material
+
+* 1.5 [Full-Stack 101: Node, Express and Mongo](https://openclassrooms.com/en/courses/5614116-go-full-stack-with-node-js-express-and-mongodb)
    * OC course time: 10 hrs
 
 ### Self-Graded Assignments
@@ -93,26 +111,7 @@
 ### Mini-Projects
 
 * Not included in OC course:
-   * Mini-project 1.4: [Submit your coursework to Github](#)
-
-## Module 1.5
-
-### Course Material
-
-* 1.5 [Build Your Web Projects With REST APIs](https://openclassrooms.com/en/courses/6121936-build-your-web-projects-with-rest-apis)
-   * OC course time: 4 hrs
-
-### Mini-Projects
-
-* Included in OC course:
-   * Mini-project 1.5: [Choose frameworks to build your API](https://openclassrooms.com/en/courses/6121936-build-your-web-projects-with-rest-apis/6268271-choose-frameworks-to-build-your-api)
-
-### Self-Graded Assignments
-
-* Included in OC course:
-   * 2 auto graded quizzes
-   * Identify the value of REST APIs for your code projects
-   * Make requests and send responses with a REST API
+   * Mini-project 1.5: [Submit your coursework to Github](#)
 
 
 ## Module 1.6
