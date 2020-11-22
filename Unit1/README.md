@@ -111,8 +111,7 @@
 ### Mini-Projects
 
 * Not included in OC course:
-   * Mini-project 1.5: [Submit your coursework to Github](#)
-
+   * Mini-project 1.5: [Submit your Express Server / Web API to Github](#)
 
 ## Module 1.6
 
