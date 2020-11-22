@@ -9,5 +9,3 @@
 
 2. Create a new branch and then new Pull Request and assign it to your coach for review.
     * For the text file containing your recommendations, a .txt format is fine.
-
-[Turn in Mini-Project 1.3](#)

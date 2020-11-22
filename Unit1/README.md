@@ -90,6 +90,10 @@
    * Protect selected routes with token-based authentication in an Express app
    * Handle user files in an Express app
 
+### Mini-Projects
+
+* Not included in OC course:
+   * Mini-project 1.4: [Submit your coursework to Github](#)
 
 ## Module 1.5
 
