@@ -8,4 +8,4 @@
 1. Open the [project page on OpenClassrooms](https://openclassrooms.com/en/courses/3523321-optimize-your-website-with-devtools/6785681-get-some-practice-breakdowning-your-favorite-website)
 
 2. Create a new branch and then new Pull Request and assign it to your coach for review.
-    * For the text file containing your recommendations, a .txt format is fine.
+    * For the text file containing your recommendations, using .txt format is fine.

@@ -1,7 +1,20 @@
-# Mini Project 1.5: Submit your coursework to Github
+# Mini Project 1.5: Design your API Endpoints
 
-![Become](https://avatars2.githubusercontent.com/u/38302861?s=200&v=4)
+##### Credit to OpenClassrooms
+![Become](https://github.com/OCclassprojects/logo/blob/master/fav-icon.png?raw=true)
 
 ### Mini Project Instructions
 
-1. For module 1.5, simply create a new branch containing your Express Web Server and open a PR for your coach to review. 
+1. Open the [project page on OpenClassrooms](https://openclassrooms.com/en/courses/6121936-build-your-web-projects-with-rest-apis/6268261-design-your-api-endpoints)
+
+2. Create a new branch and then new Pull Request and assign it to your coach for review.
+# Mini Project 1.5: Design Your API Endpoints
+
+##### Credit to OpenClassrooms
+![Become](https://github.com/OCclassprojects/logo/blob/master/fav-icon.png?raw=true)
+
+### Mini Project Instructions
+
+1. Open the [project page on OpenClassrooms](https://openclassrooms.com/en/courses/6121936-build-your-web-projects-with-rest-apis/6268261-design-your-api-endpoints)
+
+2. Create a new branch and then new Pull Request and assign it to your coach for review.
