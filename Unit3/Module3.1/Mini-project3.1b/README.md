@@ -1,4 +1,4 @@
-# Mini Project 3.1b: Add a Validation Message
+# Mini Project 3.1b: Edit Existing Products
 
 ##### Credit to OpenClassrooms
 ![Become](https://github.com/OCclassprojects/logo/blob/master/fav-icon.png?raw=true)
