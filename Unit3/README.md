@@ -11,7 +11,8 @@
 ### Mini-Projects
 
 * Included in OC course:
-   * Mini-Project 3.1: [Add a Validation Message](https://openclassrooms.com/en/courses/4286486-build-web-apps-with-reactjs/4317901-practice-add-a-validation-message) and [Edit Existing Products](https://openclassrooms.com/en/courses/4286486-build-web-apps-with-reactjs/4317921-practice-extend-the-form-functionality-to-edit-existing-products)
+   * Mini-Project 3.1a: [Add a Validation Message](https://openclassrooms.com/en/courses/4286486-build-web-apps-with-reactjs/4317901-practice-add-a-validation-message)
+   * Mini-Project 3.1b: [Edit Existing Products](https://openclassrooms.com/en/courses/4286486-build-web-apps-with-reactjs/4317921-practice-extend-the-form-functionality-to-edit-existing-products)
       * Be sure to follow along with the last section. This mini-project will use the app that you built as the starting point.
 
 ### Self-Graded Assignments
