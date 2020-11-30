@@ -10,8 +10,7 @@
 ### Mini-Projects
 
 * Included in OC course:
-   * Mini-project 2.1: [Design an ERD](https://openclassrooms.com/en/courses/5671741-design-the-logical-model-of-your-relational-database/6737981-get-some-practice-by-designing-an-erd)
-      * Turn in an image of a sketch or a link to a Lucid Chart project
+   * Mini-project 2.1: [Design an ERD](Module2.1/Mini-Project2.1)
 
 ### Self-Graded Assignments
 
@@ -32,13 +31,10 @@
 ### Mini-Projects
 
 * Included in OC course:
-   * Mini-project 2.2a: [Get some practice building an employee database](https://openclassrooms.com/en/courses/6031801-implement-a-relational-database-with-sql/6774636-get-some-practice-building-an-employee-database)
+   * Mini-project 2.2a: [Get some practice building an employee database](Module2.2/Mini-Project2.2a)
 * Not included in OC course
-   * Mini-project 2.2b: Integrate MySQL or Postgres into an ExpressJS app
-      * https://expressjs.com/en/guide/database-integration.html
-   * Mini-project 2.2c (Optional): Use Sequelize in your ExpressJS app
-      * https://sequelize.readthedocs.io/en/v3/ 
-      * https://sequelize.org/master/manual/query-interface.html 
+   * Mini-project 2.2b: [Integrate MySQL or Postgres into an ExpressJS app](Module2.2/Mini-Project2.2b)
+   * Mini-project 2.2c (Optional): [Use Sequelize in your ExpressJS app](Module2.2/Mini-Project2.2c)
 
 ### Self-Graded Assignments
 
@@ -56,7 +52,7 @@
 ### Mini-Projects
 
 * Included in OC:
-   * Mini-Project 2.3a: [Practice Executing Simple SQL Queries](https://openclassrooms.com/en/courses/2071486-retrieve-data-using-sql/6802696-get-some-practice-executing-simple-sql-queries)
-   * Mini-Project 2.3b: [Advanced SQL Queries](https://openclassrooms.com/en/courses/2071486-retrieve-data-using-sql/6802756-get-some-practice-executing-advanced-sql-queries)
+   * Mini-Project 2.3a: [Practice Executing Simple SQL Queries](Module2.3/Mini-Project2.3a)
+   * Mini-Project 2.3b: [Advanced SQL Queries](Module2.3/Mini-Project2.3b)
 * Not included in OC:
-   * [Odin Project - SQL Zoo](https://www.theodinproject.com/courses/databases/lessons/sql)
+   * [Odin Project - SQL Zoo](https://www.theodinproject.com/courses/databases/lessons/sql) (self-graded, not for turn-in)
