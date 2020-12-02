@@ -125,5 +125,8 @@
    
 ### Self-Graded Assignments
 
-* Included in OC course: 
-   * None
+* None
+
+## Unit 1 Project
+
+Access the [Unit 1 Project here](Unit1-Project).
