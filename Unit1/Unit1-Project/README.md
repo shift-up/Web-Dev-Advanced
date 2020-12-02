@@ -10,9 +10,9 @@ The goal of this project is to showcase the skill sets that you’ve learned thr
 
 ### GOALS
 
-Build a full-stack project that demonstrates your frontend and API building abilities and will serve as a portfolio piece
-Develop and submit a formal scope that includes mockup for your project to your coach by the end of Unit 1
-Present your finished project to a panel of coaches. Be able to answer questions about the technical aspects of the project 
+* Build a full-stack project that demonstrates your frontend and API building abilities and will serve as a portfolio piece.
+* We recommend that you submit a scope document that includes a mockup for your project to your coach before your start coding the app. 
+* You can submit the scope as a written document in a Pull Request, and a coach will get back to you to approve it.
 
 ### SPECIFICATIONS
 
