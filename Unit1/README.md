@@ -10,7 +10,7 @@
 ### Mini-Projects
 
 * Included in OC course:
-   * Mini-Project 1.1: [Get some practice integrating a mockup in HTML and CSS](https://openclassrooms.com/en/courses/3505461-breakdown-and-integrate-a-mockup/6785371-get-some-practice-integrating-a-mockup-in-html-and-css)
+   * Mini-Project 1.1: [Get some practice integrating a mockup in HTML and CSS](./Module1.1/Mini-Project1.1/README.md)
 
 ### Self-Graded Assignments
 
@@ -33,8 +33,8 @@
 ### Mini-Projects
 
 * Included in OC course:
-   * Mini-Project 1.2a: [Get some practice sharing your wireframes](https://openclassrooms.com/en/courses/4555931-create-simple-prototypes-with-wireframes/6784746-get-some-practice-sharing-your-wireframes)
-   * Mini-Project 1.2b: [Make a clickable prototype](https://openclassrooms.com/en/courses/4555931-create-simple-prototypes-with-wireframes/4908361-create-and-test-your-clickable-prototype)
+   * Mini-Project 1.2a: [Get some practice sharing your wireframes](./Module1.2/Mini-Project1.2a/README.md)
+   * Mini-Project 1.2b: [Make a clickable prototype](./Module1.2/Mini-Project1.2b/README.md)
 
 ### Self-Graded Assignments
 
@@ -59,7 +59,7 @@
 ### Mini-Projects
 
 * Included in OC course:
-   * Mini-Project 1.3: [Get some practice breakdowning your favorite website](https://openclassrooms.com/en/courses/3523321-optimize-your-website-with-devtools/6785681-get-some-practice-breakdowning-your-favorite-website)
+   * Mini-Project 1.3: [Get some practice breakdowning your favorite website](./Module1.3/Mini-Project1.3/README.md)
 
 ### Self-Graded Assignments
 
@@ -83,7 +83,7 @@
 ### Mini-Projects
 
 * Not included in OC course:
-   * Mini-project 1.4: [Create additional routes for your API](./Module1.4/Mini-Project1.4)
+   * Mini-project 1.4: [Create additional routes for your API](./Module1.4/Mini-Project1.4/README.md)
 
 
 ### Self-Graded Assignments
@@ -106,7 +106,7 @@
 ### Mini-Projects
 
 * Included in OC course:
-   * Mini-project 1.5: [Design your API Endpoints](https://openclassrooms.com/en/courses/6121936-build-your-web-projects-with-rest-apis/6268261-design-your-api-endpoints)
+   * Mini-project 1.5: [Design your API Endpoints](./Module1.5/Mini-Project1.5/README.md)
 
 ### Self-Graded Assignments
 
@@ -125,7 +125,7 @@
 ### Mini-Projects
 
 * Included in OC course:
-   * Mini-project 1.6: [Deploy an app to heroku](https://openclassrooms.com/en/courses/4614791-deploy-apps-on-heroku)
+   * Mini-project 1.6: [Deploy an app to heroku](./Module1.6/Mini-Project1.6/README.md)
    
 ### Self-Graded Assignments
 
