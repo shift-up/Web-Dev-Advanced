@@ -7,7 +7,8 @@
 
 1. Open the [project page on OpenClassrooms](https://openclassrooms.com/en/courses/4555931-create-simple-prototypes-with-wireframes/4908361-create-and-test-your-clickable-prototype)
 
-2. Submit the link to your Marvel prototype in the form below.
-    * Optional: Before you submit, consider sharing your prototype with a friend, family member, or another Shift_Up member. This will provide you with valuable feedback and additional perspective as you work to finalize your design.
+2. (Optional) Consider sharing your prototype with a friend, family member, or another Shift_Up member. This will provide you with valuable feedback and additional perspective as you work to finalize your design.
 
-[Turn in Mini-Project 1.2b](#)
+3. Once your prototype is ready, create a .txt file containing the url.
+
+4. Create a new branch and then new Pull Request and assign it to your coach for review.
