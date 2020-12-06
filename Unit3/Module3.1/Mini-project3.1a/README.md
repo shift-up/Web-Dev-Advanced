@@ -10,3 +10,4 @@
 2. If you haven't already, push your work from the 3.1 course materials to your Github folder.
 
 3. Create a new branch with your changes from mini-project 3.1a and then open a new Pull Request and assign it to your coach for review.
+    * Your PR should contain changes to the `ProductForm.js` component
