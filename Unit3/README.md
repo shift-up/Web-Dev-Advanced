@@ -32,7 +32,7 @@
   
 ### Mini-Projects
   * Mini-Project 3.15a [Using Local Storage]
-  * Mini- Project 3.15b [Create a component hierarchy] 
+  * Mini- Project 3.15b [Create a Component Hierarchy] 
 
 ## Module 3.2 - Making Content Accessible
 
