@@ -23,7 +23,7 @@
    * [Build a Ticking Clock Component](https://openclassrooms.com/en/courses/4286486-build-web-apps-with-reactjs/4286711-build-a-ticking-clock-component)
    * [Understanding One-Way Data Bindings](https://openclassrooms.com/en/courses/4286486-build-web-apps-with-reactjs/4286721-understand-one-way-data-bindings)
 
-## Module 3.15 - Tick-Tack-Toe an Introduction to React
+## Module 3.15 - Tick-Tac-Toe - An Introduction to React
 
 ### Course Material
 
