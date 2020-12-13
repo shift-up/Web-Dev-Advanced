@@ -6,6 +6,6 @@ When we take a look at your Tic-Tac-Toe application as is  - everything is curre
 
 ### SPECIFICATIONS
 
-* Find and seperate at least one reusable component from your current application - Export and Import it correctly. Research these concepts on your own.
+* Find and separate at least one reusable component from your current application - Export and Import it correctly. Research these concepts on your own.
 
-* Seperate any utilites in your main file into its own seperate uitlity file, export and import them appropriately. Research what a typical utility file is and why they can be beneficial. 
+* Separate any utilites in your main file into its own separate uitlity file, export and import them appropriately. Research what a typical utility file is and why they can be beneficial. 
