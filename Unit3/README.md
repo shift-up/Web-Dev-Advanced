@@ -11,7 +11,8 @@
 ### Mini-Projects
 
 * Included in OC course:
-   * Mini-Project 3.1: [Add a Validation Message](https://openclassrooms.com/en/courses/4286486-build-web-apps-with-reactjs/4317901-practice-add-a-validation-message) and [Edit Existing Products](https://openclassrooms.com/en/courses/4286486-build-web-apps-with-reactjs/4317921-practice-extend-the-form-functionality-to-edit-existing-products)
+   * Mini-Project 3.1a: [Add a Validation Message](./Module3.1/Mini-project3.1a/README.md)
+   * Mini-Project 3.1b: [Edit Existing Products](./Module3.1/Mini-project3.1b/README.md)
       * Be sure to follow along with the last section. This mini-project will use the app that you built as the starting point.
 
 ### Self-Graded Assignments
@@ -31,7 +32,7 @@
 
 ### Mini-Projects
 
-* Mini-Project 3.2: [Create an Accessible Style Guide](https://openclassrooms.com/en/courses/6663451-make-your-web-content-accessible/6912752-create-accessible-visual-designs#/id/r-6912739)
+* Mini-Project 3.2: [Create an Accessible Style Guide](./Module3.2/Mini-project3.2/README.md)
    * Let’s make an accessible one-page style guide. To get started, you can use [this example and template](https://www.figma.com/file/1rzHME5zpsCvf2sdIe7NCA/Quick-Style-Guide-Template?node-id=0%3A1). You can save a copy and fill out the template yourself, or use a different tool, like Illustrator, to create something similar.
 
 ### Self-Graded Assignments
