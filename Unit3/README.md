@@ -1,4 +1,4 @@
-# Unit 3: Building a frontend
+# Unit 3: Building a Frontend
 
 
 ## Module 3.1 - Working with ReactJS
@@ -22,6 +22,17 @@
    * [Building a React App](https://openclassrooms.com/en/courses/4286486-build-web-apps-with-reactjs/4286676-use-create-react-app-to-build-your-react-app)
    * [Build a Ticking Clock Component](https://openclassrooms.com/en/courses/4286486-build-web-apps-with-reactjs/4286711-build-a-ticking-clock-component)
    * [Understanding One-Way Data Bindings](https://openclassrooms.com/en/courses/4286486-build-web-apps-with-reactjs/4286721-understand-one-way-data-bindings)
+
+## Module 3.15 - Tick-Tack-Toe an Introduction to React
+
+### Course Material
+
+* 3.15 [An Intro to React](https://reactjs.org/tutorial/tutorial.html)
+  * Estimated time: 2 - 4 hrs
+  
+### Mini-Projects
+  * Mini-Project 3.15a [Using Local Storage]
+  * Mini- Project 3.15b [Create a component hierarchy] 
 
 ## Module 3.2 - Making Content Accessible
 
