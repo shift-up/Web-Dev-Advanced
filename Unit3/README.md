@@ -31,8 +31,8 @@
   * Estimated time: 2 - 4 hrs
   
 ### Mini-Projects
-  * Mini-Project 3.15a [Using Local Storage] (Unit3/Module3.15/Mini-project3.15a/README.md)
-  * Mini- Project 3.15b [Create a Component Hierarchy] (Unit3/Module3.15/Mini-project3.15b/README.md)
+  * Mini-Project 3.15a [Using Local Storage](https://github.com/shift-up/Web-Dev-Advanced/blob/8d137675daf46ce7ae29c99e83b3b77dadff4686/Unit3/Module3.15/Mini-project3.15a/README.md)
+  * Mini- Project 3.15b [Create a Component Hierarchy](https://github.com/shift-up/Web-Dev-Advanced/blob/8d137675daf46ce7ae29c99e83b3b77dadff4686/Unit3/Module3.15/Mini-project3.15b/README.md)
 
 ## Module 3.2 - Making Content Accessible
 
@@ -43,7 +43,7 @@
 
 ### Mini-Projects
 
-* Mini-Project 3.2: [Create an Accessible Style Guide](./Module3.2/Mini-project3.2/README.md)
+* Mini-Project 3.2: [Create an Accessible Style Guide](https://github.com/shift-up/Web-Dev-Advanced/tree/8d137675daf46ce7ae29c99e83b3b77dadff4686/Unit3/Module3.2/Mini-project3.2)
    * Let’s make an accessible one-page style guide. To get started, you can use [this example and template](https://www.figma.com/file/1rzHME5zpsCvf2sdIe7NCA/Quick-Style-Guide-Template?node-id=0%3A1). You can save a copy and fill out the template yourself, or use a different tool, like Illustrator, to create something similar.
 
 ### Self-Graded Assignments
