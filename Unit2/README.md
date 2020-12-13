@@ -10,7 +10,7 @@
 ### Mini-Projects
 
 * Included in OC course:
-   * Mini-project 2.1: [Design an ERD](Module2.1/Mini-Project2.1)
+   * Mini-project 2.1: [Design an ERD](https://github.com/shift-up/Web-Dev-Advanced/tree/master/Unit2/Module2.1/Mini-project2.1)
 
 ### Self-Graded Assignments
 
@@ -31,10 +31,10 @@
 ### Mini-Projects
 
 * Included in OC course:
-   * Mini-project 2.2a: [Get some practice building an employee database](Module2.2/Mini-Project2.2a)
+   * Mini-project 2.2a: [Get some practice building an employee database](https://github.com/shift-up/Web-Dev-Advanced/tree/master/Unit2/Module2.2/Mini-project2.2a)
 * Not included in OC course
-   * Mini-project 2.2b: [Integrate MySQL or Postgres into an ExpressJS app](Module2.2/Mini-Project2.2b)
-   * Mini-project 2.2c (Optional): [Use Sequelize in your ExpressJS app](Module2.2/Mini-Project2.2c)
+   * Mini-project 2.2b: [Integrate MySQL or Postgres into an ExpressJS app](https://github.com/shift-up/Web-Dev-Advanced/tree/master/Unit2/Module2.2/Mini-project2.2b)
+   * Mini-project 2.2c (Optional): [Use Sequelize in your ExpressJS app](https://github.com/shift-up/Web-Dev-Advanced/tree/master/Unit2/Module2.2/Mini-project2.2c)
 
 ### Self-Graded Assignments
 
@@ -52,7 +52,7 @@
 ### Mini-Projects
 
 * Included in OC:
-   * Mini-Project 2.3a: [Practice Executing Simple SQL Queries](Module2.3/Mini-Project2.3a)
-   * Mini-Project 2.3b: [Advanced SQL Queries](Module2.3/Mini-Project2.3b)
+   * Mini-Project 2.3a: [Practice Executing Simple SQL Queries](https://github.com/shift-up/Web-Dev-Advanced/tree/master/Unit2/Module2.3/Mini-project2.3a)
+   * Mini-Project 2.3b: [Advanced SQL Queries](https://github.com/shift-up/Web-Dev-Advanced/tree/master/Unit2/Module2.3/Mini-project2.3b)
 * Not included in OC:
    * [Odin Project - SQL Zoo](https://www.theodinproject.com/courses/databases/lessons/sql) (self-graded, not for turn-in)
