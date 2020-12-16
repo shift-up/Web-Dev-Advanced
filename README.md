@@ -13,3 +13,7 @@ As you go through each Module you will find self-graded quizzes and assignments 
 - [Unit 1: Full-stack web apps](Unit1/)
 - [Unit 2: Relational databases](Unit2/)
 - [Unit 3: Building a frontend](Unit3/)
+
+# Capstone Project
+
+The [capstone project requirements are here](https://docs.google.com/document/d/1zf0devFldKkkONtq_rNYFrFacSP1i572jC_dLS-Zz_g/edit?usp=sharing). Using the usual process, turn in your code by putting the files into the `Capstone` directory of your personal GitHub repository and creating a new Pull Request.
