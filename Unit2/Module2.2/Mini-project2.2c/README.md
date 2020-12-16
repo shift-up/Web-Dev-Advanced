@@ -5,7 +5,7 @@
 
 ### Welcome to Mini Project 2.2c
 
-This project introduces Sequelize, which is a query engine for ExpressJS. Sequelize is a popular library that allows interfacing with your database through a Javascript-friendly interface. It is not required for querying your database, but using query engines, which exist in all web languages, is standard and considered a more elegant alternative to writing all SQL directly. It also provides security features to prevent things like SQL injection attacks. This mini-project is a follow-on to [Mini-project 2.2b](../Mini-Project2.2b/).
+This project introduces Sequelize, which is a query engine for ExpressJS. Sequelize is a popular library that allows interfacing with your database through a Javascript-friendly interface. It is not required for querying your database, but using query engines, which exist in all web languages, is standard and considered a more elegant alternative to writing all SQL directly. It also provides security features to prevent things like SQL injection attacks. This mini-project is a follow-on to [Mini-project 2.2b](../Mini-project2.2b/).
 
 ### Mini Project Instructions
 

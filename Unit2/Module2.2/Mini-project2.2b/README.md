@@ -5,7 +5,7 @@
 
 ### Welcome to Mini Project 2.2b
 
-This project will get you practice setting up a MySQL or Postgres database and integrating it into a simple ExpressJS application. This mini-project is a follow-on to [Mini-project 2.2a](../Mini-Project2.2a/).
+This project will get you practice setting up a MySQL or Postgres database and integrating it into a simple ExpressJS application. This mini-project is a follow-on to [Mini-project 2.2a](../Mini-project2.2a).
 
 ### Mini Project Instructions
 
@@ -26,4 +26,4 @@ This project will get you practice setting up a MySQL or Postgres database and i
 	- Allows a user to enter an employee ID into a text field and output the matching employee record (in whatever format you see fit)
 	- A web form with a submit button that can be filled out to create a new employee record
 
-1. As usual put your code into the `Unit2/Module2.2/Mini-Project2.2b/` directory, and submit it for coach review as a Pull Request.
+1. As usual put your code into the `Unit2/Module2.2/Mini-project2.2b/` directory, and submit it for coach review as a Pull Request.

@@ -11,4 +11,4 @@
 
 1. After verifying each query is working correctly, copy the query into the `queries.sql` file into the `Unit2/Module2.3/Mini-Project2.3b/` directory.
 
-1. Put the the `queries.sql` file in the `Unit2/Module2.3/Mini-Project2.3b/` directory, and submit it for coach review as a Pull Request.
+1. Put the the `queries.sql` file in the `Unit2/Module2.3/Mini-project2.3b/` directory, and submit it for coach review as a Pull Request.
