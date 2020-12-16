@@ -4,3 +4,6 @@
 
 ### Mini Project Instructions
 
+1a. For this mini-project, simply create a branch containing all of your coursework for Unit 1.4.
+
+1b. Open a new Pull Request and assign it to your coach for review.
