@@ -10,6 +10,6 @@ As you go through each Module you will find self-graded quizzes and assignments 
 
 # Units
 
-- [Unit 1: Full-stack web apps](./tree/master/Unit1)
-- [Unit 2: Relational databases](./tree/master/Unit2)
-- [Unit 3: Building a frontend](./tree/master/Unit3)
+- [Unit 1: Full-stack web apps](Unit1/)
+- [Unit 2: Relational databases](Unit2/)
+- [Unit 3: Building a frontend](Unit3/)
