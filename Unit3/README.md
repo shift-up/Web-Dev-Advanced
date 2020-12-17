@@ -53,7 +53,8 @@
 
 ### Mini-Projects
 
-* Coming soon
+* **Not** included in OC course:
+   * Mini-Project 3.3: [Apply OWASP security best practices in your ExpressJS app](./Module3.3/Mini-project3.3/README.md)
 
 ### Self-Graded Assignments
 
