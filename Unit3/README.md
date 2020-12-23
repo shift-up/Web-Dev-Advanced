@@ -31,8 +31,8 @@
   * Estimated time: 2 - 4 hrs
   
 ### Mini-Projects
-  * Mini-Project 3.15a [Using Local Storage](https://github.com/shift-up/Web-Dev-Advanced/blob/8d137675daf46ce7ae29c99e83b3b77dadff4686/Unit3/Module3.15/Mini-project3.15a/README.md)
-  * Mini- Project 3.15b [Create a Component Hierarchy](https://github.com/shift-up/Web-Dev-Advanced/blob/8d137675daf46ce7ae29c99e83b3b77dadff4686/Unit3/Module3.15/Mini-project3.15b/README.md)
+  * Mini-Project 3.15a [Using Local Storage](./Module3.15/Mini-project3.15a/README.md)
+  * Mini- Project 3.15b [Create a Component Hierarchy](./Unit3/Module3.15/Mini-project3.15b/README.md)
 
 ## Module 3.2 - Making Content Accessible
 

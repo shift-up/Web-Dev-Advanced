@@ -1,14 +1,20 @@
 # Mini Project 3.15a: Using Local Storage
 
+##### Credit to Shift_Up coach Raevan Gregson
+![Become](https://avatars2.githubusercontent.com/u/38302861?s=200&v=4)
+
 ### OVERVIEW & GOALS
  
-You've built yourself an small Tic-Tac-Toe game using React. Now, how can we persist our state using local storage ? Time to figure it out ! By the end of this project you should be able to close your browser, or do a hard refresh and still see the same state you left your Tic-Tac-Toe game in. This will require you to resaerch on your own implementing local storage in a react app.
+Congrats! You now have a small app built with React. Now, how can we keep the current game when our window or browser closes? Often, we want to keep the state of something without writing to a database. We do this through something called Local Storage.
+
+For this project, your job is to learn about local storage and implement it in your Tic-Tac-Toe game. After you're done, users should be able to refresh their page or close their browser, and in each case return to the game as they left it.
+
+[Here is a great article](https://programmingwithmosh.com/react/localstorage-react/) to get you started.
 
 Why is this important ? 
     Diving into local storage and using it with React's state, as well as learning how to clear it, should help your understanding of React's state management even more. 
 
 ### SPECIFICATIONS
 
-* Mid-game, when you hit refresh or close your window - navigating back to your app you will see your Tic-Tac-Toe board in the same state you left it
-
-* You've added a button that gives the user to start a game over (clear their Tic-Tac-Toe board a.k.a reset your state)
+* After each move, save the state of the game to local storage. You should be able to refresh your window or close it entirely, and still return to the game as you left it.
+* Add a button allowing users to start over (reset the game, and clear local storage).
