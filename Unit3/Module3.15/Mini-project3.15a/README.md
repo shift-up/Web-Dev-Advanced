@@ -3,7 +3,7 @@
 ##### Credit to Shift_Up coach Raevan Gregson
 ![Become](https://avatars2.githubusercontent.com/u/38302861?s=200&v=4)
 
-### OVERVIEW & GOALS
+### Welcome to Mini Project 3.15a
  
 Congrats! You now have a small app built with React. Now, how can we keep the current game when our window or browser closes? Often, we want to keep the state of something without writing to a database. We do this through something called Local Storage.
 
@@ -11,10 +11,10 @@ For this project, your job is to learn about local storage and implement it in y
 
 [Here is a great article](https://programmingwithmosh.com/react/localstorage-react/) to get you started.
 
-Why is this important ? 
-    Diving into local storage and using it with React's state, as well as learning how to clear it, should help your understanding of React's state management even more. 
+### Mini Project Instructions
 
-### SPECIFICATIONS
+1. Update your game so that after each move, the state of the game is saved to local storage. You should be able to refresh your window or close it entirely, and still return to the game as you left it.
 
-* After each move, save the state of the game to local storage. You should be able to refresh your window or close it entirely, and still return to the game as you left it.
-* Add a button allowing users to start over (reset the game, and clear local storage).
+2. Add a button allowing users to start over (reset the game, and clear local storage).
+
+3. Create a new branch and then new Pull Request and assign it to your coach for review.
