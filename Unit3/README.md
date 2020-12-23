@@ -32,7 +32,7 @@
   
 ### Mini-Projects
   * Mini-Project 3.15a [Using Local Storage](./Module3.15/Mini-project3.15a/README.md)
-  * Mini- Project 3.15b [Create a Component Hierarchy](./Unit3/Module3.15/Mini-project3.15b/README.md)
+  * Mini- Project 3.15b [Create a Component Hierarchy](./Module3.15/Mini-project3.15b/README.md)
 
 ## Module 3.2 - Making Content Accessible
 
