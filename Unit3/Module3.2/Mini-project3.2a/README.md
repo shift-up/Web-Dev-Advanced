@@ -1,9 +1,9 @@
-# Mini Project 3.15a: Using Local Storage
+# Mini Project 3.2a: Using Local Storage
 
 ##### Credit to Shift_Up coach Raevan Gregson
 ![Become](https://avatars2.githubusercontent.com/u/38302861?s=200&v=4)
 
-### Welcome to Mini Project 3.15a
+### Welcome to Mini Project 3.2a
  
 Congrats! You now have a small app built with React. Now, how can we keep the current game when our window or browser closes? Often, we want to keep the state of something without writing to a database. We do this through something called Local Storage.
 

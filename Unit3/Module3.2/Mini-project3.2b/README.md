@@ -1,9 +1,9 @@
-# Mini Project 3.15b: Create a Component Hierarchy
+# Mini Project 3.2b: Create a Component Hierarchy
 
 ##### Credit to Shift_Up coach Raevan Gregson
 ![Become](https://avatars2.githubusercontent.com/u/38302861?s=200&v=4)
 
-### Welcome to Mini Project 3.15a
+### Welcome to Mini Project 3.2a
  
 When we take a look at your Tic-Tac-Toe application as is, everything is currently in a single file. This doesn't seem too bad at the moment, but consider what might happen if you continued to add new features to your game. 
 
